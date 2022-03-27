@@ -5,11 +5,6 @@ import com.pavelkrachkouski.arraysofarrays.ArraysOfArrays;
 import com.pavelkrachkouski.arrayssorting.ArraysSorting;
 import com.pavelkrachkouski.decomposition.Decomposition;
 
-import java.net.Inet4Address;
-import java.net.Inet6Address;
-import java.net.InetAddress;
-import java.net.UnknownHostException;
-
 public class Main {
 
     public static void main(String[] args) {
@@ -55,7 +50,17 @@ public class Main {
         //Decomposition.task4();
         //Decomposition.task5();
         //Decomposition.task6();
-        Decomposition.task7();
+        //Decomposition.task7();
+        //Decomposition.task8();
+        //Decomposition.task9();
+        //Decomposition.task10();
+        //Decomposition.task11();
+        //Decomposition.task12();
+        //Decomposition.task13();
+        //Decomposition.task14();
+        //Decomposition.task15();
+        //Decomposition.task16();
+        Decomposition.task17();
 
     }
 }
